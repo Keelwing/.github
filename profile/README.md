@@ -1,11 +1,6 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="keelwing-mark-dark.svg">
-    <img src="keelwing-mark.svg" width="112" alt="Keelwing">
-  </picture>
+  <img src="keelwing-banner.svg" width="100%" alt="Keelwing">
 </p>
-
-<h1 align="center">Keelwing</h1>
 
 <p align="center">Open-source sessions, extensions and tools for Sailfish OS phones.</p>
 
@@ -20,7 +15,9 @@ Sailfish OS, not instead of it.
 
 Early days: the repositories open one by one.
 
-If the work helps you, you can support it on [Ko-fi](https://ko-fi.com/D31m05z).
+If the work helps you, you can support it:
+
+<a href="https://ko-fi.com/D31m05z"><img src="keelwing-support.svg" height="40" alt="Support Keelwing on Ko-fi"></a>
 
 <sub>Sailfish OS and Jolla are trademarks of their owners; Keelwing is a community project, not made or endorsed by
 them.</sub>
