@@ -1,0 +1,39 @@
+name: Bug report
+description: Something does not work, or looks wrong
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what you saw instead. A screenshot helps, without personal data.
+    validations:
+      required: true
+  - type: input
+    id: os
+    attributes:
+      label: Sailfish OS version
+      description: Settings → About product
+      placeholder: 5.2.0.20
+    validations:
+      required: true
+  - type: input
+    id: phone
+    attributes:
+      label: Phone
+      placeholder: Jolla Phone
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version of the project
+      placeholder: 1.0.0
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs
+      description: The lines the project's README asks for. Look through them before you post; they can name apps and accounts.
+      render: text

@@ -1,0 +1,16 @@
+name: Idea
+description: Something you would like a project to do
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: The idea
+      description: What it should do, and when you would use it.
+    validations:
+      required: true
+  - type: textarea
+    id: today
+    attributes:
+      label: How you do it today
+      description: A workaround, another app, or nothing yet.
