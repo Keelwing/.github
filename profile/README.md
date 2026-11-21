@@ -9,13 +9,13 @@ Sailfish OS, not instead of it.
 
 | Layer | In the mark | Projects |
 |---|---|---|
-| **Air**: UI and UX | the sail | **Seaglass**: home screen extensions for the stock Sailfish OS UI: folders, glass, search, badges, a richer task switcher, widgets |
+| **Air**: UI and UX | the sail | **[Seaglass](https://github.com/Keelwing/seaglass)**: widgets, glass, app search, notification badges, a richer task switcher and app animations for the stock home screen. [Website](https://keelwing.github.io/seaglass/) · [Download](https://github.com/Keelwing/seaglass/releases/latest) |
 | **Surface**: modules that glide | the hull | **Sailyard**: a second session on a Sailfish OS phone, per user. Plasma Mobile and Plasma Desktop today, Phosh next |
 | **Depth**: under the water | the keel | The runtime under the sessions: GPU, boot screen, the compositor hand-over. Tools for disk usage and monitoring come next |
 
-Early days: the repositories open one by one.
+Seaglass is out; the other repositories open one by one. More at [keelwing.github.io](https://keelwing.github.io/).
 
-If the work helps you, you can support it:
+Everything here is free and stays free. If it helps you, a coffee on Ko-fi keeps the work going:
 
 <a href="https://ko-fi.com/D31m05z"><img src="keelwing-support.svg" height="40" alt="Support Keelwing on Ko-fi"></a>
 
